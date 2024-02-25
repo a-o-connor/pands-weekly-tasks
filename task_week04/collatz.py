@@ -23,13 +23,14 @@ print("This sequence has reached 1")
 print(numbers)
 
 
-#Just for fun, lets plot this hailstone sequence
+#Just for fun, lets plot this!
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 plt.plot(numbers)
 plt.show()
+
 
 
 
